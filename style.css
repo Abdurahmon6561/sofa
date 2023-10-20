@@ -1,0 +1,155 @@
+/* Normolaze css*/
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+
+h2,
+h3,
+h4,
+h6,
+p, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none; 
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    max-width: 1440px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+/* End Normolaze css */
+
+/*  header  */
+.header{
+    margin-bottom: 84px;
+    padding: 20px;
+}
+.header-list{
+    gap: 0 70px;
+}
+.header-list-item{
+    color: #000;
+text-align: center;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+/* end header */
+.second{
+    padding: 0px;
+    margin-bottom: 110px;
+}
+.second-title{
+    padding: 80px;
+    margin-bottom: -138px;
+    color: #000;
+font-size: 48px;
+font-weight: 400;
+}
+.second-subtitle{
+    padding: 76px;
+    margin-bottom: -38px;
+    color: #646464;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; 
+}
+.second-price{
+    color: #1B3544;
+    padding: 33px;
+font-size: 26px;
+font-weight: 600;
+position: relative;
+}
+.btn{
+    position: absolute;
+    color: white;
+    width: 185px;
+height: 61px;
+background: #1B3544;
+}
+.second-centre{
+    text-align: center;
+    margin-bottom: -200px;
+    padding: 65px;  
+ }
+ .chair-3{
+    color: #1B3544;
+text-align: center;
+font-size: 12px;
+font-weight: 500;
+line-height: 16px; 
+justify-content: space-between;
+ }
+ /* info */
+ .info{
+    background-color: #1B3544; ;
+ }
+ .info-title{
+    color: white;
+font-family: PT Serif;
+font-size: 32px;
+font-weight: 400;
+margin-top: -194px;
+padding: 79px;
+ }
+ .info-subtitle{
+    color: #E5E5E5;
+font-size: 12px;
+font-weight: 400;
+line-height: 22px; 
+ }
+.info-title2{
+    padding-bottom: 214px;
+    color: #FFF;
+font-size: 30px;
+font-weight: 400;
+}
+.info-subtitle2{
+    color: #FFF;
+font-family: PT Serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.info-title3{
+    margin: 44px;
+    color: #FFF;
+font-size: 30px;
+font-weight: 400;
+}
+.info-subtitle3{
+    color: #FFF;
+font-family: PT Serif;
+font-size: 12px;
+font-weight: 400;
+padding-bottom: 200px;
+}
+
+.img-2{
+    margin: -290px;
+    margin-bottom: -443px;
+}
